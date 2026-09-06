@@ -1,0 +1,22 @@
+# [BUG-ID] Краткая суть ошибки (Summary)
+
+* **Environment:** macOS / Chrome (latest) / Stand
+* **Severity:** Major
+* **Priority:** High
+
+## Preconditions:
+Открыта страница регистрации.
+
+## Steps to Reproduce:
+1. Перейти на форму регистрации.
+2. Ввести данные.
+3. Нажать кнопку отправки.
+
+## Actual Result:
+Описание того, что произошло на самом деле.
+
+## Expected Result:
+Описание того, как система должна работать согласно требованиям.
+
+## Attachments:
+[Скриншот или лог ошибки]
